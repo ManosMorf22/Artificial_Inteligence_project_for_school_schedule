@@ -1,4 +1,4 @@
-# Artificial_Inteligence_project_for_school_schedule
+# School-Schedule-Maker-V2
 
 The aim of this project is to create a school schedule for students using an AI Technique A*
 
